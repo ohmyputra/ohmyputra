@@ -1,1 +1,22 @@
-<img src="https://github-readme-stats.vercel.app/api?username=putragilanq&show_icons=true&theme=radical" />
+<pre>
+             |\|\,'\,'\ ,.
+             )        ;' |,'
+            /              |,'|,.
+           /                  ` /__
+          ,'                    ,-'
+         ,'                    :
+        (_                     '
+      ,'                      ;
+      |---._ ,'     .        '
+      :   o Y---.__  ;      ;
+      /`,""-|     o`.|     /
+     ,  `._  `.    ,'     ;
+     ;         `""'      ;
+    /                   -'.
+    \                   G  )
+     `-.__________,   `._,'
+             (`   `     |)\
+            / `.       ,'  \
+           /    `-----'     \
+          /                  `
+</pre>
